@@ -1,1 +1,2 @@
 # hi-brdo
+print ("hello")
